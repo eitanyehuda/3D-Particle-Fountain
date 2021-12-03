@@ -2,6 +2,12 @@ We used Windows 10 OS and completed this assignment in VSCode.
 
 We compiled the code in MSYS2 MINGW-64 using the Makefile. Simply type make to remove past exe, compile program, and run.
 
+![Screenshot2](https://user-images.githubusercontent.com/23744162/144625487-86fbe8b6-a8af-4665-af29-61555e8ec4c5.JPG)
+![Screenshot3](https://user-images.githubusercontent.com/23744162/144625491-0cd996d4-3634-4787-8605-73ad093bb6b2.JPG)
+![Screenshot4](https://user-images.githubusercontent.com/23744162/144625493-8872439f-af98-4c66-a323-920072d38003.JPG)
+![Screenshot5](https://user-images.githubusercontent.com/23744162/144625494-8268df99-d8ed-407b-afa2-cf23caa231d3.JPG)
+![Screenshot1](https://user-images.githubusercontent.com/23744162/144625495-9f771a9c-d92d-485a-b2fe-e424b72de649.JPG)
+
 Controlable features:
 - Press the arrow keys to move the selected light.
 - Press 1 and 2 to change which light is selected.
